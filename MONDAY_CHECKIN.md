@@ -1,5 +1,5 @@
 # Monday Check-In
-## CS411 — Computer Networks — Summer 2026
+## CS411 - Computer Networks - Summer 2026
 
 This document is your reference for every Monday of the course.
 It tells you exactly what to install, how to set up your environment,
@@ -9,10 +9,10 @@ how to get your project repo, and how to work with Git every day.
 
 ---
 
-## Part 1 — Install everything (do this before the first Monday)
+## Part 1 - Install everything (do this before the first Monday)
 
 You need four tools installed on your machine. Do this at home
-before the course starts — do not wait until Monday morning.
+before the course starts, do not wait until Monday morning.
 
 ---
 
