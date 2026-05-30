@@ -1,4 +1,4 @@
-# CS411 — Computer Networks
+# CS411 - Computer Networks
 ## Summer 2026
 
 Welcome. This repository is your starting point for the course.
@@ -29,7 +29,7 @@ Each week follows the same rhythm:
 | Monday | Project launch - brief, milestone 0 + Build day 1 |
 | Tuesday | Build day 2 |
 | Wednesday | Build day 3 |
-| Thursday | Live demo — 10-15 min per team |
+| Thursday | Live demo: 10-15 min per team |
 
 ---
 
@@ -48,10 +48,10 @@ Each week follows the same rhythm:
 
 Links will become active when each project is released.
 
-- **Week 1** — [Project 1: HTTP Server](https://github.com/cs411-summer-2026/project1-http-server-template)
-- **Week 2** — Project 2: UDP File Transfer *(released week 2)*
-- **Week 3** — Project 3: Bellman-Ford Router *(released week 3)*
-- **Week 4** — Project 4: Campus Network *(released week 4)*
+- **Week 1** - [Project 1: HTTP Server](https://github.com/cs411-summer-2026/project1-http-server-template)
+- **Week 2** - Project 2: UDP File Transfer *(released week 2)*
+- **Week 3** - Project 3: Bellman-Ford Router *(released week 3)*
+- **Week 4** - Project 4: Campus Network *(released week 4)*
 
 ---
 
