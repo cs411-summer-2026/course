@@ -26,18 +26,18 @@ Each week follows the same rhythm:
 
 | Day | What happens |
 |-----|-------------|
-| Monday | Project launch — brief, workshop, milestone 0 |
-| Tuesday | Build day 1 |
-| Wednesday | Build day 2 |
-| Thursday | Live demo — 8 min per team |
+| Monday | Project launch - brief, milestone 0 + Build day 1 |
+| Tuesday | Build day 2 |
+| Wednesday | Build day 3 |
+| Thursday | Live demo — 10-15 min per team |
 
 ---
 
 ## Rules
 
-- Teams of 2. You may not work alone.
-- Commit after every working step — not only on Thursday morning.
-- Demos are live. No videos, no screenshots, no "it worked yesterday".
+- Teams of 2 to 3 maximum. You may not work alone.
+- Commit after every working step, not only on Thursday morning.
+- Demos are live. No videos, no screenshots.
 - Wireshark must be open and running during every demo.
 - Using a library that does the main work for you (Flask, http.server, etc.)
   is an automatic zero for that project.
